@@ -18,7 +18,7 @@ const Navbar = () => {
           <li className="category">Jewelery</li>
         </Link>
         <Link to={"/men's clothing"}>
-          <li className="category">MensClothing</li>
+          <li className="category">MensClothingsss</li>
         </Link>
         <Link to={"/women's clothing"}>
           <li className="category"> WomenClothing</li>
